@@ -1,0 +1,483 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sebastian",
+      "surnames": "Bustamante Cano",
+      "title": "",
+      "description": "Ingeniero Técnico en informática con 20 años de experiencia, combinando gestión de proyectos, productos y personas. Desde el 2013 he ayudado a la puesta en marcha y lanzamiento de varias startups con el rol de desarrollador o CTO. Muy motivado en seguir aprendiendo y crecer como técnico.",
+      "location": {
+        "country": "España",
+        "region": "Islas Baleares",
+        "municipality": "Palma",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/sebasj"
+      },
+      {
+        "type": "other",
+        "URL": "https://supspot.ch"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/SebaSj"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sebastian-j-bustamante-cano-21134018/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "uEnergia"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Desarrollo ERP sector electrico, telecomunicaciones e instalaciones fotovoltaicas"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ports de les Illes Balears"
+        },
+        "roles": [
+          {
+            "name": "CTO / CIO / Director IT",
+            "startDate": "2006-01-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Responsable de un equipo de tres personas, como equipo:\n- Hemos liderado la transformación de un ente público que trabaja basado en papel a tener digitalizados la mayoría de procesos de cara a los ciudadanos.\n- Hemos implantado un sistema de gestión portuaria unificando procesos e información.\n- Gestión del parque tecnologico existente en el ente.\n- Detección, análisis, diseño, desarrollo y ejecución de nuevas soluciones tecnológicas.\n- Gestión presupuestaria para la consecución de los objetivos marcados.\n- Gestión de proyectos, productos y sistemas. Ayuda a las personas"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple macOS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Consejeria Obras Publicas"
+        },
+        "roles": [
+          {
+            "name": "Tecnico sistemas, jefe de proyecto",
+            "startDate": "2003-04-01",
+            "finishDate": "2005-12-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones con Delphi y Java.\nJefe de proyecto: Proyecto de gestión de titulaciones naúticas.\nJefe de proyecto: Proyecto para la gestión de las líneas de autobús públicas: TIB\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Delphi",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Lotus",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Varias empresas tecnologia"
+        },
+        "roles": [
+          {
+            "name": "Técnico de sistemas",
+            "startDate": "2000-01-01",
+            "finishDate": "2003-04-01",
+            "challenges": [
+              {
+                "description": "Soporte a usuarios: ofimática, sistemas\nInstalaciones de redes, servidores, telecomunicaciones.\nDesarrollo aplicaciones Delphi, desarrollo scripts SQL.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Delphi",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Varios despachos de arquitectura"
+        },
+        "roles": [
+          {
+            "name": "Delineante",
+            "startDate": "1997-06-01",
+            "finishDate": "1999-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Traducción artículos Python del ingles al español",
+          "description": "Ayuda en la traducción de artículos sobre Python en freecodecamp del inglés al español",
+          "URL": "https://www.freecodecamp.org/espanol/news/author/sebasj/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "SupSpot",
+          "description": "Side project de tecnología. Estamos desarrollando un sistema de alquiler de deportes al aire libre, con sede en Suiza. Creamos una aplicación sencilla e intuitiva para la automatización de los puntos de venta de Paddles Surf.\nEl sistema evolucionó de una aplicación para iPad a una API basada en Django, que sirve com base para un sistema de reservas en línea, un back office de gestión y un Aplicación para iPad que consume la API. Totalmente integrado con la solución de pago Sumup SDK y la API Stripe\n",
+          "URL": "https://supspot.ch"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-01-01",
+            "finishDate": "2021-12-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "DontDebit",
+          "description": "Side project de tecnología. Lanzamos una solución, implementada en Django y Java, para la cancelación de deudas \nentre empresas."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-03-01",
+            "finishDate": "2014-12-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Cursillos Udemy",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Swift; \nReact Native; \nVue; \nJava; \nPython, \nPandas,\nSpring Boot,\nAngular,\nFlutter,\nKotlin"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Engineering Manager Workshop.",
+        "startDate": "2020-12-01",
+        "finishDate": "2020-12-01",
+        "institution": {
+          "name": "Felix Lopez Luis",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Postgrado patrones de diseño: ingenieria de software",
+        "startDate": "2007-09-01",
+        "finishDate": "2007-12-01",
+        "institution": {
+          "name": "UOC",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Técnica en Informática de Gestión.",
+        "startDate": "2006-09-01",
+        "finishDate": "2011-06-01",
+        "institution": {
+          "name": "UOC",
+          "description": "",
+          "URL": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo Grado Superior: Desarrollo aplicaciones informáticas.",
+        "startDate": "1999-09-01",
+        "finishDate": "2001-06-01",
+        "institution": {
+          "name": "C.I.F.P Francesc de Borja Moll",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Formación Profesional Grado superior. Delineación.",
+        "startDate": "1996-09-01",
+        "finishDate": "1998-06-01",
+        "institution": {
+          "name": "Colegio San Jose Obrero",
+          "description": "Formación Profesional Grado superior. Delineación."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sebastian-j-bustamante-cano-21134018/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Developer Evangelist & Advocate",
+        "Engineering Management",
+        "IT Manager",
+        "Product Design (UI/UX)",
+        "Product Manager",
+        "Product Owner",
+        "Project Manager & Delivery Manager",
+        "VP of Engineering"
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
