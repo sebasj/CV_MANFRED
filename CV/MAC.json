@@ -112,6 +112,37 @@
       },
       {
         "organization": {
+          "name": "DontDebit"
+        },
+        "roles": [
+          {
+            "name": "CIO",
+            "startDate": "2013-03-01",
+            "finishDate": "2014-12-01",
+            "challenges": [
+              {
+                "description": "Side project de tecnología. Lanzamos una solución, implementada en Django y Java, para la cancelación de deudas \nentre empresas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ports de les Illes Balears"
         },
         "roles": [
