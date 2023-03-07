@@ -1,17 +1,20 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Sebastian",
       "surnames": "Bustamante Cano",
+      "title": "",
+      "description": "Ingeniero Técnico en informática con 20 años de experiencia, combinando gestión de proyectos, productos, desarrollo/programación y sobre todo  personas.\nDesde el 2013 he ayudado a la puesta en marcha y lanzamiento de varias startups con el rol de desarrollador o CTO. \nMuy motivado en seguir aprendiendo y crecer como técnico.\n",
       "location": {
         "country": "España",
         "region": "Islas Baleares",
-        "municipality": "Palma"
+        "municipality": "Palma",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -187,6 +190,11 @@
             "name": "Delineante",
             "startDate": "1997-06-01",
             "finishDate": "1999-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Autocad",
@@ -287,13 +295,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -370,7 +381,8 @@
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
         "institution": {
-          "name": "Felix Lopez Luis"
+          "name": "Felix Lopez Luis",
+          "description": ""
         }
       },
       {
@@ -380,7 +392,8 @@
         "startDate": "2007-09-01",
         "finishDate": "2007-12-01",
         "institution": {
-          "name": "UOC"
+          "name": "UOC",
+          "description": ""
         }
       },
       {
@@ -390,7 +403,9 @@
         "startDate": "2006-09-01",
         "finishDate": "2011-06-01",
         "institution": {
-          "name": "UOC"
+          "name": "UOC",
+          "description": "",
+          "URL": ""
         }
       },
       {
@@ -400,7 +415,8 @@
         "startDate": "1999-09-01",
         "finishDate": "2001-06-01",
         "institution": {
-          "name": "C.I.F.P Francesc de Borja Moll"
+          "name": "C.I.F.P Francesc de Borja Moll",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -461,6 +477,7 @@
         "Project Manager & Delivery Manager",
         "VP of Engineering"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
