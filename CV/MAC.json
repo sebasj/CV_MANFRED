@@ -8,31 +8,25 @@
     "profile": {
       "name": "Sebastian",
       "surnames": "Bustamante Cano",
-      "title": "",
+      "title": "Title",
       "description": "Ingeniero Técnico en informática con 20 años de experiencia, combinando gestión de proyectos, productos, desarrollo/programación y sobre todo  personas.\nDesde el 2013 he ayudado a la puesta en marcha y lanzamiento de varias startups con el rol de desarrollador o CTO. \nMuy motivado en seguir aprendiendo y crecer como técnico.\n",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
         "country": "España",
         "region": "Islas Baleares",
-        "municipality": "Palma",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Palma"
       }
     },
-    "relevantLinks": [
+    "interestingFacts": [
       {
-        "type": "github",
-        "URL": "https://github.com/sebasj"
-      },
+        "topic": "Mentor Django Girls 2023, Mallorca",
+        "fact": "Mentor en la edición del 2023 del evento Django Girls Mallorca."
+      }
+    ],
+    "relevantLinks": [
       {
         "type": "other",
         "URL": "https://supspot.ch"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/SebaSj"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sebasj?original_referer="
       }
     ]
   },
@@ -190,11 +184,6 @@
             "name": "Delineante",
             "startDate": "1997-06-01",
             "finishDate": "1999-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Autocad",
@@ -232,7 +221,6 @@
           {
             "name": "Developer",
             "startDate": "2015-01-01",
-            "finishDate": "2021-12-01",
             "competences": [
               {
                 "name": "Django",
@@ -254,7 +242,8 @@
                 "name": "SQLite",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2021-12-01"
           }
         ]
       },
@@ -268,7 +257,6 @@
           {
             "name": "Developer",
             "startDate": "2013-03-01",
-            "finishDate": "2014-12-01",
             "competences": [
               {
                 "name": "Django",
@@ -286,7 +274,8 @@
                 "name": "Python",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2014-12-01"
           }
         ]
       }
@@ -295,46 +284,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "Catalán",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Inglés",
         "level": "Professional working proficiency"
-      },
-      {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Swift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Objective-C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
           "type": "technology"
         }
       },
@@ -346,13 +311,25 @@
       },
       {
         "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Django",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
           "type": "technology"
         }
       },
@@ -361,63 +338,30 @@
           "name": "Pandas",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
-      {
-        "studyType": "selfTraining",
-        "degreeAchieved": false,
-        "name": "Cursillos Udemy",
-        "startDate": "2015-01-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Swift; \nReact Native; \nVue; \nJava; \nPython, \nPandas,\nSpring Boot,\nAngular,\nFlutter,\nKotlin"
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Engineering Manager Workshop.",
-        "startDate": "2020-12-01",
-        "finishDate": "2020-12-01",
-        "institution": {
-          "name": "Felix Lopez Luis",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Postgrado patrones de diseño: ingenieria de software",
-        "startDate": "2007-09-01",
-        "finishDate": "2007-12-01",
-        "institution": {
-          "name": "UOC",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniería Técnica en Informática de Gestión.",
-        "startDate": "2006-09-01",
-        "finishDate": "2011-06-01",
-        "institution": {
-          "name": "UOC",
-          "description": "",
-          "URL": ""
-        }
-      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ciclo Formativo Grado Superior: Desarrollo aplicaciones informáticas.",
         "startDate": "1999-09-01",
-        "finishDate": "2001-06-01",
         "institution": {
-          "name": "C.I.F.P Francesc de Borja Moll",
-          "description": ""
+          "name": "C.I.F.P Francesc de Borja Moll"
         },
+        "finishDate": "2001-06-01",
         "linkedCompetences": [
           {
             "name": "C++",
@@ -438,21 +382,81 @@
         ]
       },
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Cursillos Udemy",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Swift; \nReact Native; \nVue; \nJava; \nPython, \nPandas,\nSpring Boot,\nAngular,\nFlutter,\nKotlin"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Engineering Manager Workshop.",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "Felix Lopez Luis"
+        },
+        "finishDate": "2020-12-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Formación Profesional Grado superior. Delineación.",
         "startDate": "1996-09-01",
-        "finishDate": "1998-06-01",
         "institution": {
           "name": "Colegio San Jose Obrero",
           "description": "Formación Profesional Grado superior. Delineación."
         },
+        "finishDate": "1998-06-01",
         "linkedCompetences": [
           {
             "name": "Autocad",
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Técnica en Informática de Gestión.",
+        "startDate": "2006-09-01",
+        "institution": {
+          "name": "UOC"
+        },
+        "finishDate": "2011-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Postgrado patrones de diseño: ingenieria de software",
+        "startDate": "2007-09-01",
+        "institution": {
+          "name": "UOC"
+        },
+        "finishDate": "2007-12-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -460,8 +464,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sebasj?original_referer="
+          "URL": "https://www.linkedin.com/in/sebasj?original_referer=",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/sebasj",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/SebaSj",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "sebasj@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "627416408",
+          "countryCode": "+34"
         }
       ]
     },
@@ -479,5 +500,19 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un trabajo que permita focalizar un objetivo claro. Poder ayudar a mis compañeros y la organización. Que me ayude a crecer técnicamente y que el nuevo conocimiento adquirido pueda transmitirlo a las personas con las que trabajo",
+    "projects": [
+      {
+        "name": "DontDebit"
+      },
+      {
+        "name": "SupSpot"
+      },
+      {
+        "name": "Traducción artículos Python del ingles al español"
+      }
+    ]
   }
 }
