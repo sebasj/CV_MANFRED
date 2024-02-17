@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -24,6 +24,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sebasj?original_referer="
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/sebasj"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/SebaSj"
+      },
       {
         "type": "other",
         "URL": "https://supspot.ch"
@@ -284,16 +296,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalán",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Inglés",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -469,21 +484,15 @@
         },
         {
           "URL": "https://github.com/sebasj",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/SebaSj",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
         "sebasj@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "627416408",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
