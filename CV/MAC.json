@@ -500,6 +500,10 @@
         {
           "name": "Ruby",
           "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
